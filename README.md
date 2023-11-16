@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSperanza3
+![banner](https://github.com/MSperanza3/MSperanza3/assets/125948883/9e810096-8072-496a-be7c-62bccfacabd7)
 - 👀 I’m just starting in Coding
 - 🌱 I’m currently learning at Codeup
 - 📫 How to reach me matteo.u.speranza@gmail.com
