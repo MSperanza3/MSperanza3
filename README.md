@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSperanza3&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?MSperanza3=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/MSperanza3=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
