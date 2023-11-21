@@ -8,5 +8,3 @@ MSperanza3/MSperanza3 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSperanza3&show_icons=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/MSperanza3=ryo-ma&theme=onedark)]
